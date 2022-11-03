@@ -1623,12 +1623,10 @@ forwarded@~0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/forwarded/-/forwarded-0.1.0.tgz#19ef9874c4ae1c297bcf078fde63a09b66a84363"
 
-foundation-sites@^6.2.3:
-  version "6.3.0"
-  resolved "https://registry.yarnpkg.com/foundation-sites/-/foundation-sites-6.3.0.tgz#19b2d6e5edced8418a4a7b4a1d65287ee1c8d512"
-  dependencies:
-    jquery "^2.2.0"
-    what-input "^4.0.3"
+foundation-sites@^6.7.5:
+  version "6.7.5"
+  resolved "https://registry.yarnpkg.com/foundation-sites/-/foundation-sites-6.7.5.tgz#6bc2bdd06819e6ed4d7fd8e3090246a0b6ac81c0"
+  integrity sha512-MEjAENdF/IV2XQvlQmg20o+iDTyyWu0N/j440e8fKbEylbKxARzgg5S7vcnxtjukC1Lqg+rRm7ZDSSyGhVVoUQ==
 
 fresh@0.3.0:
   version "0.3.0"
@@ -3680,10 +3678,6 @@ websocket-driver@>=0.5.1:
 websocket-extensions@>=0.1.1:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.1.tgz#76899499c184b6ef754377c2dbb0cd6cb55d29e7"
-
-what-input@^4.0.3:
-  version "4.0.6"
-  resolved "https://registry.yarnpkg.com/what-input/-/what-input-4.0.6.tgz#bbe3cd1e1eb5ee16e441c08af7294740f94614ec"
 
 which-module@^1.0.0:
   version "1.0.0"
