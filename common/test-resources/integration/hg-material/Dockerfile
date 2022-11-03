@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:kinetic-20220830
 MAINTAINER godev@thoughtworks.com
 
 RUN apt-get update
