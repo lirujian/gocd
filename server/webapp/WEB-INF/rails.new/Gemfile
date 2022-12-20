@@ -6,8 +6,8 @@ gem 'validatable', '>=1.6.0'
 
 gem 'dynamic_form'
 
-gem 'sprockets-rails'
-gem 'sass-rails'
+gem 'sprockets-rails', '>= 3.0.0'
+gem 'sass-rails', '>= 6.0.0'
 gem 'requirejs-rails'
 gem 'mithril_rails'
 gem 'uglifier'
