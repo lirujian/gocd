@@ -18,7 +18,7 @@ gem 'js-routes'
 
 gem 'oauth2_provider', '1.0.3', path: 'vendor/engines/oauth2_provider'
 gem 'versionist'
-gem 'roar'
+gem 'roar', '>= 1.0.2'
 gem 'rack-throttle', '~> 0.4.2'
 gem 'webpack-rails'
 
@@ -34,7 +34,7 @@ group :development, :test do
   gem 'rspec-rails', '2.14.2'
   gem 'rspec-extra-formatters'
 
-  gem 'capybara', '2.2.1'
+  gem 'capybara', '2.3.0'
   gem 'ruby-debug-base'
   gem 'ruby-debug-ide'
 end
