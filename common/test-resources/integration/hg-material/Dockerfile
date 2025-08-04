@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:24.10
 MAINTAINER godev@thoughtworks.com
 
 RUN apt-get update
